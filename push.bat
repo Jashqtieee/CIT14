@@ -4,3 +4,4 @@ pause
 git add .
 git commit -m "html ni juswaaa"
 git push
+pause
